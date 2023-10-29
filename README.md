@@ -1,2 +1,2 @@
 # Tampus
-Repositorio del proyecto integreador del grupo MiCalaminaCausa
+Repositorio del proyecto integrador del grupo Dev_Turtles
